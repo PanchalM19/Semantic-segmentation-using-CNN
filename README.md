@@ -1,1 +1,1 @@
-# -PanchalM19-Semantic-segmentation-using-CNN
+# Semantic-segmentation-using-CNN
