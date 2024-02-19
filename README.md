@@ -31,15 +31,15 @@ To analyze the impact of model backbones, or encoders, we experimented with clas
 ### 1. U-Net + ResNet50
 ![image](https://github.com/PanchalM19/Semantic-segmentation-using-CNN/assets/115374409/c28406e8-3b8d-4409-88d5-c3009a54a6fe)
 
-### 1. U-Net + VGG-16
+### 2. U-Net + VGG-16
 ![image](https://github.com/PanchalM19/Semantic-segmentation-using-CNN/assets/115374409/e12fe51b-443f-4471-af35-a04223e497b9)
 
 
-### 1. SegNet + ResNet50
+### 3. SegNet + ResNet50
 ![image](https://github.com/PanchalM19/Semantic-segmentation-using-CNN/assets/115374409/ac9917b9-2fe3-45a8-b78c-418eb257196e)
 
 
-### 1. SegNet + VGG-16
+### 4. SegNet + VGG-16
 ![image](https://github.com/PanchalM19/Semantic-segmentation-using-CNN/assets/115374409/ba30656c-803a-4380-a859-d5886eb57779)
 
 
